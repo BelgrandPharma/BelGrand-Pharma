@@ -33,3 +33,10 @@
     "vite": "^5.4.2"
   }
 }
+
+"scripts": {
+  "build": "vite build",
+  "deploy": "gh-pages -d dist"
+}
+
+"homepage": "https://www.belgrandpharma.com"
